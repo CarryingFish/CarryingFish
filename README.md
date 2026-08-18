@@ -1,59 +1,39 @@
-# 👋 Hi, I'm CarryingFish
+# 👋 你好，欢迎来到我的主页
 
-> 一名专注于**工业制造领域**的软件设计师，致力于构建稳定、高效、跨平台的桌面应用。
+我是一名注重工程落地的开发者，长期专注于客户端/桌面应用、嵌入式相关软件开发与工程化实践。擅长复杂问题定位、系统调试、性能优化与项目流程规范化，习惯从底层逻辑与实际场景出发解决问题。
 
----
+不局限于单纯写代码，重视技术落地、业务闭环与长期迭代，致力于把复杂系统做稳、做清晰、做可维护。
 
-### 🛠️ 技术栈 & 工具
+## 🧠 个人定位
+- **技术风格**：务实严谨，看重细节与复盘，拒绝盲目堆砌技术，优先保证系统稳定与可落地。
+- **核心能力**：功能开发、底层调试、问题溯源、性能优化、项目规范化、文档沉淀。
+- **做事理念**：先理清逻辑，再动手实现；先解决根源，再优化体验。
 
-#### 前端 & 跨平台开发
-- **框架**：Vue 3（Composition API）、React（部分项目）
-- **状态管理**：Pinia、Vuex
-- **UI 库**：Element Plus、Ant Design Vue
-- **跨平台**：Electron（主力）、Capacitor、uniapp（探索中）
-- **语言**：TypeScript、JavaScript、HTML5 / CSS3
+## 🔭 当前方向
+- 桌面/客户端应用开发、嵌入式软件适配与调试
+- 设备通信、总线协议对接、系统兼容与老旧设备性能调优
+- 软件工程化、代码规范、流程标准化、质量问题复盘
+- 持续钻研底层原理、Linux 体系、高可靠系统设计
 
-#### 后端 & 工程化
-- **运行时**：Node.js  
-- **包管理**：npm / yarn  
-- **构建工具**：Vite（首选）、Webpack  
-- **协作与部署**：Git、GitHub、GitHub Actions  
+## 🛠 技术栈
+**编程语言**：`C/C++` `Python` `Java` `Vue`
 
-#### 领域专长
-- 轨道交通车载/地面人机交互系统（HMI）  
-- 工业级桌面应用架构设计  
-- 前端工程化与性能优化  
-- 跨平台一致性体验保障  
+**框架 & 工具**：`Qt / PyQt` `若依(Ruoyi)` `MySQL` `Git` `Linux` `WSL2`
 
----
+**擅长场景**：桌面软件开发、设备通信调试、功能迭代、系统迁移兼容、疑难问题定位复盘、技术文档整理、项目流程优化。
 
-### 🚀 近期项目
+## 💡 个人特质
+- ✅ 擅长排查偶现、环境、协议类疑难问题
+- ✅ 重视工程沉淀，沉淀文档固化经验，减少重复踩坑
+- ✅ 兼具技术与业务视角，兼顾底层实现和真实业务场景
+- ✅ 长期主义，持续复盘迭代个人技术体系
 
-| 项目名称 | 简介 | 技术栈 | 状态 |
-|--------|------|--------|------|
-| [Shortcut_Organizer](https://github.com/CarryingFish/Shortcut_Organizer) | 快捷方式管理器，支持分类、图标、搜索与数据持久化 | Electron, React 18, TypeScript, TailwindCSS, better-sqlite3 | ✅ 维护中（跨平台） |
-| [Frame_Photo](https://github.com/CarryingFish/Frame_Photo) | 摄影约拍管理系统，支持双角色（客户/摄影师） | Vue 2, Spring Boot, MySQL, Element UI | 🔒 私有 · 已交付 |
-| [LibraryManagementSystem](https://github.com/CarryingFish/LibraryManagementSystem) | 图书馆管理系统，含借阅、归还、权限控制 | Vue 3, Spring Boot, MySQL, JWT | 🔒 私有 · 教学用途 |
-| [ManagementSystem](https://github.com/CarryingFish/ManagementSystem) | 通用后台管理模板，支持动态菜单与权限路由 | Vue 3, Pinia, Element Plus, Axios | 🔒 私有 · 组件原型 |
-| [AgriProductSafetyTrace](https://github.com/CarryingFish/AgriProductSafetyTrace) | 农产品质量安全追溯平台，实现全链路数据追踪 | Vue 3, Spring Boot, Redis, PostgreSQL | 🔒 私有 · 迭代中 |
-| [HX_simulator](https://github.com/CarryingFish/hxd2b_simulator) | 机车模拟器，用于机车逻辑仿真 | Python, PyQt5, NumPy | 🔒 私有 · 实验原型 |
-
-> 💡 注：🔒 表示私有仓库；✅ 表示开源或可公开访问。
-
----
-
-### 📝 学习与思考
-
-- 深入研究 **Electron 性能优化** 与 **主/渲染进程通信机制**
-- 探索 **Vue 3 + TypeScript** 在复杂工业项目中的最佳实践
-- 关注 **前端工程化**、**跨平台兼容性** 与 **软件可维护性**
-- 相信：“**代码是思考的延伸，工程是协作的艺术。**”
-
----
+## ⚡ 碎碎念
+技术不是工具的堆砌，是思维、逻辑、经验与沉淀的结合。坚持深耕，持续精进，写可维护的代码，做可落地的项目。
 
 ### 📫 如何找到我
-
 - **GitHub**: [@CarryingFish](https://github.com/CarryingFish)  
+- **QQ**: ✉️ `2502788956`  
 - **Email**: ✉️ `2502788956@qq.com`  
 - **CSDN**: (https://blog.csdn.net/qq_50327214?type=blog)  
 
